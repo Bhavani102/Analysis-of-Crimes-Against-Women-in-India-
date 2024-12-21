@@ -1,1 +1,2 @@
-# Analysis-of-Crimes-Against-Women-in-India-
+# Crimes Against Women Analysis:
+Conducted an in-depth analysis of crimes against women in India (2021) using a comprehensive Kaggle dataset. Employed a variety of data analytics techniques, including descriptive and prescriptive analytics, to uncover trends, patterns, and insights related to the frequency, distribution, and types of crimes. The analysis also included identifying high-risk areas, understanding factors contributing to crimes, and providing actionable recommendations for policy and prevention strategies. The findings were compiled into a detailed report, offering valuable insights for both government agencies and advocacy groups working to combat gender-based violence.
